@@ -1,0 +1,12 @@
+# Java
+/backend-with-frontend/target/
+/backend-with-frontend/.idea/
+
+# Node
+/frontend-with-springboot/node_modules/
+/frontend-with-springboot/.next/
+/frontend-with-springboot/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
